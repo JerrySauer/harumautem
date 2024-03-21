@@ -1,0 +1,24 @@
+{
+  "name": "harumautem",
+  "version": "1.7.1",
+  "description": "Eth JSON-RPC WebSocket client",
+  "main": "index.js",
+  "keywords": [
+    "enim",
+    "dolorem",
+    "websocket",
+    "ws"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JerrySauer/harumautem.git"
+  },
+  "author": "SandrineSpinka",
+  "license": "MIT",
+  "dependencies": {
+    "@ethereumjs/tx": "^3.3.0",
+    "abeos": "^1.0.0",
+    "dolorrepellendus": "^1.0.5",
+    "ws": "^7.5.3"
+  }
+}
